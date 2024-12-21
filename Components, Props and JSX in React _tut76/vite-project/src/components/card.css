@@ -1,0 +1,9 @@
+.cardu{
+    height: 50vh;
+    width: 20vw;
+    margin: 50px;
+    padding: 15px;
+    background-color: aqua;
+    border: 2px solid grey;
+    text-align: center;
+}
